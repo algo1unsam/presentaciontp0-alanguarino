@@ -4,7 +4,7 @@ Soy estudiante de TPI, trabajo en comercio electronico y mi hobbie son los espor
 
 Foto de mi persona:
 
-![d](https://imgur.com/fSSbpJa)
+![d](https://i.imgur.com/fSSbpJa.jpg)
 
 Profile picture
 
